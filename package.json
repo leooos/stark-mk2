@@ -1,0 +1,16 @@
+{
+  "name": "stark-mk2",
+  "version": "1.0.0",
+  "description": "API responsible for invoice value transfers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Kagohara",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "starkbank": "^2.17.0"
+  }
+}
